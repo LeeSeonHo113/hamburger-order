@@ -1,6 +1,6 @@
-# 🍔 2주차 키오스크 앱 
+# 🍔 키오스크 앱 
 
-> **프로젝트 기간 : 21.06.26 ~ 21.07.02**  
+> **프로젝트 기간 : **  
 
 ## 📌 주제
 
@@ -10,9 +10,7 @@
  CRUD 기능, 화면전환 및 데이터 주고 받기 포함
  ```
  
-[![iOS 생명주기를 활용한 주문 앱 만들기](https://img.youtube.com/vi/rBZBH8WjY10/0.jpg)](https://youtu.be/rBZBH8WjY10?t=0s)
-
-👆🏻 👆🏻 👆🏻   `실행 영상 유튜브 링크`👆🏻 👆🏻 👆🏻  <br><br>
+![iOS 생명주기를 활용한 주문 앱 만들기](https://img.youtube.com/vi/rBZBH8WjY10/0.jpg)
 
 ## 📌 화면 구성 및 기능
  ```
@@ -40,7 +38,3 @@
 ```
 UIStackView, UIStepper, Singleton 패턴, View Controller 생명주기( ViewWillAppear, ViewWillDisappear, ViewDidLoad)
 ```
-
-## 📌 블로그 포스팅
-
-https://chobikim.tistory.com/30
